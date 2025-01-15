@@ -4,7 +4,7 @@ function App() {
         <Container>
             <Row>
                 <Col md={{ offset: 3, span: 6 }}>
-                  <h1 className="text-center my-4">ToDo App by Yutaro Kashiwa</h1> {/* 名前を追加 */}
+                  <h1 className="text-center my-4">ToDo App by Masahiro Saito</h1>
                     <TodoListCard />
                 </Col>
             </Row>
